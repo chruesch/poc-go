@@ -1,8 +1,8 @@
 package main
 
 /*
-Try out some samples from:
-http://blog.scottlogic.com/2017/02/28/building-a-web-app-with-go.html
+Copy from
+https://gowebexamples.com/hello-world/
  */
 
 
